@@ -29,3 +29,5 @@ The synthetic dataset generated using the Synthpop package exhibits a similar st
 - The synthetic data effectively covers missing values and outliers, maintaining the integrity of the analysis.
 
 Overall, synthetic data proves to be a valuable tool for preserving data confidentiality while ensuring that statistical analyses remain accurate and reliable. However, addressing potential issues may require additional rules and access to the original dataset and its variable descriptions.
+
+For more details, refer to the project’s GitHub repository [here](https://github.com/jessicaphamca/Generating-Synthetic-Datasets-with-Synthpop/blob/main/Synthetic_Synthpop_Presentation.docx.pdf).
